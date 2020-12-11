@@ -1,4 +1,4 @@
-# 3D-Posenet
+# 2D-Posenet
 A posenet based web application to render posenet predicted keypoints on 3D Character 
 
 ## How to Reproduce Results
